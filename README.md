@@ -1,1 +1,1 @@
-![Hwting's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwting&show_icons=true&theme=github_dark)
+![Hwting's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwting&show_icons=true&theme=gruvbox)
